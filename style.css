@@ -1,0 +1,132 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.container {
+    display:flex;
+}
+.top_banner {
+	background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.left_side {
+    width: 35%;
+    text-align:justify;
+    padding-right: 10%;
+    padding-left:7%;
+    float: left;
+    padding-top: 50px;
+}
+}
+h1 {
+    font-size: 40px;
+}
+span {
+    color:darkorange;
+}
+h3 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+p {
+	padding-bottom: 20px;
+}
+
+.right_side img {
+    width: 35%;
+    margin-top: 50px;
+
+}
+.hire_me {
+    text-decoration: none;
+    background-image: linear-gradient(skyblue,pink );
+    border: 10px;
+    padding: 8px 30px;
+    margin: 2px;
+    border-radius: 5px;
+    font-size: 20;
+    font-weight: bold;
+}
+.middle_part {
+    background-image:url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 85px;
+}
+.middle_right {
+    width: 35%;
+    text-align:justify;
+    padding-right: 10%;
+    padding-left:7%;
+    float: right;
+    padding-top: 50px;
+}
+.middle_left img {
+    width: 35%;
+    float: left;
+    padding-left: 7%;
+}
+.middle_right p {
+    padding-right: 10px;
+}
+.resume {
+    background-image: linear-gradient(rgb(0, 255, 106), yellow);
+    border: 10px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.experience_part
+{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    margin-top: 300px;
+    padding-left: 120px;
+}
+.experience_pera h1 {
+	padding-top: 350px;
+}
+.experience_stack {
+	padding-top: 50px;
+}
+#border_left_fullstack {
+	padding-top: 800px:;
+    border-left: 7px solid;
+    border-image:linear-gradient(blue, pink);
+    border-image-slice: 3;
+    width: 50%;
+    padding-left: 25px;
+    padding-right: 30px;
+}
+#border_right_fullstack
+{
+    border-left: 7px solid;
+    border-image:linear-gradient(rgb(255, 230, 0), rgb(2, 40, 54));
+    border-image-slice: 3;
+    width: 50%;
+    padding-left: 25px;
+}
+.experience_unit {
+	margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 3%;
+    text-align: justify;
+    padding-right: 1%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px violet;
+}
+.experience_unit h1{
+	padding-top: 40px;
+}
+footer p {
+	padding-top: 100px;
+    text-align: center;
+}
+
