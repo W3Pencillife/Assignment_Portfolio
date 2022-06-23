@@ -21,7 +21,6 @@ body {
     float: left;
     padding-top: 50px;
 }
-}
 h1 {
     font-size: 40px;
 }
@@ -96,7 +95,7 @@ p {
 	padding-top: 50px;
 }
 #border_left_fullstack {
-	padding-top: 800px:;
+	padding-top: 800px;
     border-left: 7px solid;
     border-image:linear-gradient(blue, pink);
     border-image-slice: 3;
